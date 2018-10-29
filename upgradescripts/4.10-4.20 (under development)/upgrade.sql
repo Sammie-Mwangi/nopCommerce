@@ -149,9 +149,6 @@ set @resources='
   <LocaleResource Name="ShoppingCart.DiscountCouponCode.Invalid">
     <Value>This coupon code ({0}) is invalid or no longer available.</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.DiscountRules.CustomerRoles.NotAllowed">
-    <Value>Sorry, your role is not allowed to use this discount code</Value>
-  </LocaleResource>
   <LocaleResource Name="ShoppingCart.Discount.CannotBeUsed">
     <Value>You cannot use this discount coupon because the validation conditions are not met</Value>
   </LocaleResource>
